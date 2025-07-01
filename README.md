@@ -1,16 +1,14 @@
-## Hi there 👋
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=9A00FF&center=true&vCenter=true&width=435&lines=Awakening+Code...;Injecting+Creativity...;Deploying+Chaos...;Welcome+to+Code+X" alt="Typing SVG" />
 
-<!--
-**zerksx/zerksx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👾  | ~zerks~
+---
+`Python`   
+---
 
-Here are some ideas to get you started:
+### 🕸 Connect with the Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Discord Server: **[DC Server](https://discord.gg/CKZt2sG7U4)**  
+- 👁️‍🗨️ Profile: [guns.lol/carterr](https://guns.lol/carterr)  
+
+
+---
