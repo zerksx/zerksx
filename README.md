@@ -9,7 +9,7 @@
 ---
 
 
-### 🕸 Connect with the Code
+### 🕸 Connect with me
 
 - 💬 Discord Server: **[DC Server](https://discord.gg/gNnfk75KUJ)**
 - 👁️‍🗨️ Profile: [guns.lol/carterr](https://guns.lol/carterr)  
